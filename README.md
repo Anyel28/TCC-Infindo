@@ -8,6 +8,3 @@ Para isso iniciamos criando um grupo chamado INFICODÆ com 5 membros que ajudara
                                                          Membros do grupo:
 
 ![image](https://github.com/CalvosTech/TCC-Infindo/assets/119771512/ca5fb469-2457-4e21-8166-464bb2595e7b)
-
-
-                                                  
